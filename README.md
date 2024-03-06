@@ -77,8 +77,8 @@ $ sugar withdraw
 [Reference](https://developers.metaplex.com/candy-machine/sugar/getting-started)
 
 ## References
-[Solana File System Wallets Using The CLI](https://docs.solanalabs.com/cli/wallets/file-system)
-[Solana Airdrop](https://solana.com/developers/guides/getstarted/solana-token-airdrop-and-faucets)
-[Sugar CLI](https://developers.metaplex.com/candy-machine/sugar/getting-started)
-[Candy Machine Configuration File](https://developers.metaplex.com/candy-machine/sugar/configuration)
-[Candy Machine Token Standards (Assets)](https://developers.metaplex.com/token-metadata/token-standard)
+- [Solana File System Wallets Using The CLI](https://docs.solanalabs.com/cli/wallets/file-system)
+- [Solana Airdrop](https://solana.com/developers/guides/getstarted/solana-token-airdrop-and-faucets)
+- [Sugar CLI](https://developers.metaplex.com/candy-machine/sugar/getting-started)
+- [Candy Machine Configuration File](https://developers.metaplex.com/candy-machine/sugar/configuration)
+- [Candy Machine Token Standards (Assets)](https://developers.metaplex.com/token-metadata/token-standard)
