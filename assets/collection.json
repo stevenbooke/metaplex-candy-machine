@@ -1,0 +1,17 @@
+{
+    "name": "Number Collection",
+    "symbol": "NB",
+    "description": "Collection of 10 numbers on the blockchain.",
+    "image": "collection.png",
+    "website": "https://google.com",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "collection.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
